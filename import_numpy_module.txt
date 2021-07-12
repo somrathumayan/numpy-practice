@@ -1,0 +1,1 @@
+write : "pip install numpy"
